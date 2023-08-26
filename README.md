@@ -1,4 +1,4 @@
-# RISC-V-LCD1602-LCD2004
+# RISC-V LCD1602/LCD2004
 LCD1602 Example Code for RISC-V MCU CH32Vxxx
 
 Tested witn C32HV103 and LCD1602 and LCD2004 - 4 bit parrallel I/F
