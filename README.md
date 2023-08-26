@@ -8,6 +8,8 @@ hack of the Arduino LiquidCrystal library.
 
 To Install follow steps 1 - 3 on the [https://github.com/CanHobby/RISC-V](How-To) to set up a fresh workspace then..
 
-copy the files from to the User directoty of yoru MRS
-and
-those from the Peripheral 
+1). copy main.c and the LCD subdirectory into the User directoty of your MRS User directory overwriting where necessary.
+
+2). copy the 2 ".c" files from this Peripheral directory to the Peripheral directory on your MRS.
+
+3). copy
